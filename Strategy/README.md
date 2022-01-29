@@ -12,17 +12,22 @@ Para veículo de passeio deverá informar o valor da diária de veículo de pass
 Para veículo de carga deverá informar o valor da diária de veículo de carga, a quantidade de dias da locação e se o veículo é de cabine simples ou de cabine dupla. 
 Para veículo de passageiros, o usuário deverá informar o valor da diária de veículo de passageiros, a quantidade de dias da locação e a capacidade do veículo
 
-Exemplo de como ficou uma saida:
+#### Exemplo de como ficou uma saida
 
-#### LOCADORA DE VEICULOS ####
+LOCADORA DE VEICULOS 
+<br>
 1 - Gerar nota para veículo de passeio
+<br>
 2 - Gerar nota para veículo de carga
+<br>
 3 - Gerar nota para veículo de passageiros
+<br>
 4 - Sair
+<br>
 Escolha uma opcao: 3
-Entre com a capacidade do veículo: 12
-Entre com o valor da diaria: 70,00
-Entre com a quantidade de dias: 3
-===================== Nota Fiscal =============================
-= Valor a ser pago: R$ 235,20 =
-===============================================================
+<br> Entre com a capacidade do veículo: 12
+<br> Entre com o valor da diaria: 70,00
+<br> Entre com a quantidade de dias: 3
+<br> ===================== Nota Fiscal =============================
+<br> = Valor a ser pago: R$ 235,20 =
+<br> ===============================================================
