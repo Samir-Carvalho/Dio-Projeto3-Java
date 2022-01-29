@@ -5,7 +5,7 @@ Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Pad
 
 Dica: Além dos projetos/repositórios que criamos para este desafio, caso queira explorar novos padrões de projeto digite no Google: “java design patterns github” ou “java design patterns examples”. Com isso, você conhecerá novos padrões e implementações de referência que podem ajudá-lo a dominar esse tema!
 
-Duas pastas procurando explorar conceitos de Strategy e Decorator. 
+### Criei dois projetos em duas pastas procurando explorar conceitos de Strategy e Decorator. 
 #### 1. Strategy -
 Implementação para um sistema de geração de nota fiscal para uma locadora de veículos utilizando o padrão de projeto Strategy. Nesse sistema o usuário deve informar inicialmente o tipo de veículo para o qual se deseja emitir a nota fiscal. As opções de tipos de veículos são: veículo de passeio (carros), veículo de carga (caminhonetes) e veículo de passageiros (vans e ônibus)
 Para diferenciar cada valor da locação gerei 3 tipos de veiculos:
